@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on JavaScript<br>👯 I’m looking to collaborate on Frontend Projects<br>🌱 I’m currently learning JavaScript and Java<br>💬 Ask me about HTML, CSS, JAVASCRIPT, C and JAVA<br>⚡ Fun fact : I love travelling
+🔭 I’m currently working on JavaScript<br>👯 I’m looking to collaborate on Frontend Projects<br>🌱 I’m currently learning React Js and DSA with Java<br>💬 Ask me about HTML, CSS, JAVASCRIPT, C and JAVA<br>⚡ Fun fact : I love travelling
 
 
 ## 🌐 Socials:
