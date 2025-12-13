@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React Js<br>👯 I’m looking to collaborate on Frontend Projects<br>🌱 I’m currently learning React Js<br>💬 Ask me about HTML, CSS, JAVASCRIPT, C and React Js<br>⚡ Fun fact : I love travelling
-
+🔭 I’m currently working on React Js<br>👯 I’m looking to collaborate on Frontend Projects<br>🌱 I’m currently learning React Js<br>💬 Ask me about HTML, CSS, SCSS, JAVASCRIPT, C and React Js<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/niraj-vermaa/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/devniraj07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vermaniraj9607@gmail.com) 
@@ -24,4 +23,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=niraj-verma07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
