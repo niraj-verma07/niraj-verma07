@@ -2,6 +2,7 @@
 👋 Hi, I'm Niraj<br><br>I'm a passionate developer currently on a journey to become a <br>skilled full-stack web developer, with a strong focus on building <br>modern, scalable, and AI-powered applications.<br><br><br>💡 What I Do<br><br>🌐 Build web applications using modern JavaScript technologies<br>⚙️ Work with backend systems using Node.js and Express<br>🧠 Explore AI integrations in web apps<br>🛠️ Solve data structures and algorithm problems<br>📦 Develop and deploy full-stack projects
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niraj-vermaa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/devniraj07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vermaniraj9607@gmail.com) 
 
