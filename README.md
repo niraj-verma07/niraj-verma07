@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
 👋 Hi, I'm Niraj<br><br>I'm a passionate developer currently on a journey to become a <br>skilled full-stack web developer, with a strong focus on building <br>modern, scalable, and AI-powered applications.<br><br><br>💡 What I Do<br><br>🌐 Build web applications using modern JavaScript technologies<br>⚙️ Work with backend systems using Node.js and Express<br>🧠 Explore AI integrations in web apps<br>🛠️ Solve data structures and algorithm problems<br>📦 Develop and deploy full-stack projects
 
 
